@@ -1,0 +1,7 @@
+1. SELECT * FROM articles WHERE author_id=8;
+
+ 8 | How Tech Business Models Come From Marginalized Communities, But Startups Are Still Mostly White |
+8 | Confronting the Assumption of Whiteness in Virtual Spaces
+
+2.SELECT * FROM cities WHERE provinces_id=14;
+
